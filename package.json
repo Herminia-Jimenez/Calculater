@@ -1,0 +1,24 @@
+{
+  "name": "calcul8r",
+  "version": "0.1.0",
+  "description": "Modulo para realizar cálculos matemáticos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Herminia-Jimenez/Calculater.git"
+  },
+  "keywords": [
+    "calcul8r",
+    "calculadora",
+    "matematicas"
+  ],
+  "author": "Herminia Jiménez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Herminia-Jimenez/Calculater/issues"
+  },
+  "homepage": "https://github.com/Herminia-Jimenez/Calculater#readme"
+}
